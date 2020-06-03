@@ -3,7 +3,7 @@
     "occupation": "Front-End Data Visualization Engineer",
     "location": "San Diego, CA",
     "avatar": "avatar.jpg",
-    "pronouns": "he/him/his",
+    "pronouns": "he/him",
     "email": "chris.d.vaillancourt@gmail.com",
     "telephone": "(619) 630 - 9056",
     "website": "",
@@ -32,11 +32,12 @@
             "name": "LinkedIn",
             "user": "chrisdvaillancourt",
             "url": "https://www.linkedin.com/in/chrisdvaillancourt"
-        },
+        }
+    ],
+    "projects": [
         {
-            "name": "Twitter",
-            "user": "christopher__v",
-            "url": "https://twitter.com/christopher__v"
+            "name": "proj1",
+            "url": "mywebsite.com"
         }
     ]
 }
