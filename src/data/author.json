@@ -7,7 +7,16 @@
     "email": "chris.d.vaillancourt@gmail.com",
     "telephone": "(619) 630 - 9056",
     "website": "",
-    "skills": ["HTML", "CSS", "Javascript / ES6", "UI Design", "React", "Git"],
+    "skills": [
+        "Javascript / ES2020",
+        "HTML / CSS",
+        "D3",
+        "Esri JS API (4.x)",
+        "Vue",
+        "Svelte",
+        "Git",
+        "Linux"
+    ],
     "languages": [
         {
             "name": "English",
