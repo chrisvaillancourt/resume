@@ -7,6 +7,12 @@ start: 2004-09-01
 end: 2012-07-01
 ---
 
-Major: Geographic Information Science & Cartography
-Minors: Business & Philosophy
+<p>
 GPA: 3.75
+</p>
+<p>
+Major: Geographic Information Science & Cartography
+</p>
+<p>
+Minors: Business & Philosophy
+</p>
