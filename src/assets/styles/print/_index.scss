@@ -84,4 +84,7 @@
     .entry {
         page-break-inside: avoid;
     }
+    a[href^='http']:after {
+        content: ' (' attr(href) ')';
+    }
 }
