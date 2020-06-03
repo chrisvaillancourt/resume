@@ -7,4 +7,4 @@ start: 2019-02-01
 end: 2019-12-31
 ---
 
-Develop responsive web applications using Esri's JavaScript API, D3, and other visualization libraries. Managed editorial calendar for media strategy team. Consulted media partners on data analysis, visualization, and development best practices.
+Developed web applications to support key marketing activities. Managed editorial calendar for media strategy team. Consulted media partners on data analysis, visualization, and development best practices.
