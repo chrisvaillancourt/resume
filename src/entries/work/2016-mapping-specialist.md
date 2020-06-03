@@ -4,7 +4,7 @@ organization: Esri
 organizationUrl: https://www.esri.com
 location: Redlands, CA
 start: 2016-11-01
-end: 2019-02-31
+end: 2019-02-28
 ---
 
 Designed and developed custom map visualizations for Public Relations outreach. Partnered with product teams to promote Esri tools. Built custom geodatabases for commercial media clients.
