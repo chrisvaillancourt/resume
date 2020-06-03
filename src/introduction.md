@@ -3,4 +3,4 @@ layout: resume
 permalink: index.html
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I'm a developer with over 5 years of experience in front-end development & GIS. I have a special focus on data analysis & visualization and enjoy building performant, interactive web applications.
