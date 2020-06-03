@@ -36,8 +36,20 @@
     ],
     "projects": [
         {
-            "name": "proj1",
-            "url": "mywebsite.com"
+            "name": "Census Tract Covid19 Vulnerability",
+            "url": "https://github.com/chrisvaillancourt/census-tract-covid19-vulnerability",
+            "placementUrl": "https://www.usnews.com/news/cities/articles/2020-04-17/map-these-us-cities-are-most-vulnerable-to-coronavirus",
+            "placementName": "US News & World Report"
+        },
+        {
+            "name": "US Population Time Series",
+            "url": "https://github.com/chrisvaillancourt/us-population-time-series",
+            "placementUrl": "https://www.fastcompany.com/90449792/this-map-stunningly-visualizes-a-decade-of-u-s-population-growth-from-2010-2019",
+            "placementName": "Fast Company"
+        },
+        {
+            "name": "D3 Chart Examples",
+            "url": "https://github.com/chrisvaillancourt/d3-examples"
         }
     ]
 }

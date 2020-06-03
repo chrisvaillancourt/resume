@@ -38,7 +38,27 @@ layout: base
             <ul class="bulletlist">
                 {% for project in author.projects %}
                 <li class="p-skill">
-                    <a href="{{ project.url }}">{{ project.name }}</a>
+                    <a
+                        href="{{ project.url }}"
+                        class="p-name u-url"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >{{ project.name }}</a
+                    >
+                    {% if project.placementUrl %}
+                    <ul class="bulletlist">
+                        <li>
+                            See on
+                            <a
+                                href="{{ project.placementUrl }}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                {{ project.placementName }}</a
+                            >
+                        </li>
+                    </ul>
+                    {% endif %}
                 </li>
                 {% endfor %}
             </ul>
