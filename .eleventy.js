@@ -86,6 +86,7 @@ module.exports = function (config) {
 
     // Base Config
     return {
+        pathPrefix: "/resume/",
         dir: {
             input: 'src',
             output: 'dist',
