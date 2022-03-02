@@ -1,17 +1,17 @@
 {
-  "name": "universal-resume-template",
+  "name": "resume",
   "version": "3.1.0",
-  "description": "Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo",
-  "homepage": "https://github.com/WebPraktikos/universal-resume",
+  "description": "Chris Vaillancourt's resume. https://chrisvaillancourt.github.io/resume/",
+  "homepage": "https://github.com/chrisvaillancourt/resume",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WebPraktikos/universal-resume.git"
+    "url": "https://github.com/chrisvaillancourt/resume"
   },
   "bugs": {
-    "url": "https://github.com/WebPraktikos/universal-resume/issues"
+    "url": "https://github.com/chrisvaillancourt/resume/issues"
   },
-  "license": "NonCommercial-ShareAlike 1.0 Generic",
-  "author": "WebPraktikos <hi@webpraktikos.com>",
+  "license": "",
+  "author": "Chris Vaillancourt",
   "scripts": {
     "serve": "concurrently \"postcss ./tailwind.css -o docs/build.css --watch\"  \"live-server ./docs \"",
     "build": "cross-env NODE_ENV=build postcss ./tailwind.css -o ./docs/build.css"
